@@ -145,10 +145,10 @@
             © 2024 GRAABEL-PHARMA. Tous droits réservés.
           </div>
           <div class="flex space-x-6 text-sm">
-            <NuxtLink to="/#" class="text-gray-400 hover:text-white transition-colors">
+            <NuxtLink to="#" class="text-gray-400 hover:text-white transition-colors">
               Confidentialité
             </NuxtLink>
-            <NuxtLink to="/#" class="text-gray-400 hover:text-white transition-colors">
+            <NuxtLink to="#" class="text-gray-400 hover:text-white transition-colors">
               Conditions
             </NuxtLink>
             <NuxtLink to="#" class="text-gray-400 hover:text-white transition-colors">
