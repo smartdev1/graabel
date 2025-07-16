@@ -46,7 +46,7 @@
       </div>
     </section>
 
-    <!-- Featured Article -->
+    <!-- Featured Articles -->
     <section class="section-padding bg-gray-50">
       <div class="container-custom">
         <div class="card overflow-hidden">
