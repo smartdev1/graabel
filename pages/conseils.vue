@@ -8,7 +8,7 @@
             Conseils Santé
           </h1>
           <p class="text-xl text-blue-100 animate-fade-in">
-            Découvrez nos guides et conseils d'experts pour prendre soin de votre santé
+            Découvrez nos guides et conseils d'experts pour prendre soin de votre santé.
           </p>
         </div>
       </div>
